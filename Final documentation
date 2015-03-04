@@ -1,0 +1,14 @@
+Will McCarthy
+Jordan Secret
+Arduino final project documentation
+	
+	Our Arduino driven Lego-bot (A.K.A. Bob) takes values from the ultrasonic sensor, and then follows what’s closest to it.
+	We put the ultra-sonic sensor on a micro servo so that we could take values at 5 different angles. Once we found each of the
+	distances at each of the angles, we found the smallest, then adjusted the angle of travel on bob. 
+	
+	Although it seemed like an easier project, we had some difficulties. First, we had to use the ultrasonic sensor and
+	find an average of values to be most precise. Second, we needed to make the micro servo sweep from side to side 
+	to take different values. And finally, we had to move the wheels according to the angle of the shortest recording. 
+	We had trouble with the last part.
+	
+	It was fun and challenging. 
